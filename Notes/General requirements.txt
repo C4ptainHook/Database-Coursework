@@ -1,0 +1,11 @@
+Introduction 1-1.5 pg
+Environment description 3-4 pg
+Analizys of existion solutions 3-4 pg
+Task definition 1-1.5 pg
+
+
+
+10 procedures/functions
+5 triggers
+3 view 
+20 select-queries
