@@ -1,0 +1,56 @@
+Better Impact
+{
+=standart profile info
+=standart hours tracking
++customizable forms
++good searching tools
++good onboarding and general training tools(videos, pdfs)
++standalone mobile app
++deep security
+=standart smart schedule
+-very high pricing (3+K$ annually)
+}
+
+SignUpGenious
+{
+=standart profile info
+=standart hours tracking
++integrated donation tools (confined to single payment system)
+-sequrity 
++decent pricing(560$ annually)
+}
+
+VolunteersHub
+{
+=standart hours tracking
++rich reports with templating and possible for individual volunteer
++can connect multiple payment systems for single fundraising page
++tools for putting on the spot a customizable project oriented landing page
+=average sequrity
++cloud file storage
++social media connectivity
++smart law liability included
++rich obnboarding infrustructure(cool podcast feature)
+-very high pricing (3,5+K$ annually)
+}
+
+Give Pulse
+{
++standalone mobile app
++partnerships with universities and busineses(pool of ready to help people) 
++improved fundraising(p2p options, gift exchange)
++sort filter for volunteer
+=simple profile
++liability check during registration
++discuss portals with needs matching 
+-most features USA only
+=survey mechanism 
+=standard hours, shifts tracking 
++interactive mapping (must have for community initiatives)
+-primitive security
+=basic comunication tools 
+=decent price 1200$ annually
+}
+
+VicNet
+{
