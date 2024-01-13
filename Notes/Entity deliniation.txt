@@ -1,4 +1,10 @@
-Подія {  Назва,	Дата, Місце, Організатори, Кількість волонтерів}
+Event {  Title,	Date, Place, Orginizers, Number of volunteer}
+
+Competencies {}
+
+Volunteer {}
+
+
 
 
 	       

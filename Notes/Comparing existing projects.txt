@@ -31,6 +31,7 @@ VolunteersHub
 +social media connectivity
 +smart law liability included
 +rich obnboarding infrustructure(cool podcast feature)
+-only mobile web site
 -very high pricing (3,5+K$ annually)
 }
 
@@ -52,5 +53,19 @@ Give Pulse
 =decent price 1200$ annually
 }
 
-VicNet
+VicNet 
 {
++all functionality even for small groups
+=standart hours tracking
+=standart reports
++good security
+-no mobile app
++smart task assigment (volunteer can get the task by competencies)
+=standard scheduling 
+=standard forms
++more than 1 form per event
++intergrated messages
++extended document managment
+=decent price less than 1K$ annually
+}
+
