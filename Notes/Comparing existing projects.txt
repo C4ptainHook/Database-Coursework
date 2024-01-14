@@ -59,7 +59,7 @@ VicNet
 =standart hours tracking
 =standart reports
 +good security
--no mobile app
+=simple mobile app
 +smart task assigment (volunteer can get the task by competencies)
 =standard scheduling 
 =standard forms
