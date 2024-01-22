@@ -38,7 +38,7 @@ CREATE TABLE account (
 id SERIAL PRIMARY KEY,
 activity_id INT REFERENCES activity(id) UNIQUE,
 type VARCHAR(15) NOT NULL,
-current_amount DECIMAL(20,8) DEFAULT 0,
+current_amount DECIMAL(S20,8) DEFAULT 0,
 target_amount DECIMAL(20,8)
 );
 CREATE TABLE income (
